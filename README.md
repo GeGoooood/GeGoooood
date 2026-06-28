@@ -1,4 +1,13 @@
-## Hi there 👋
+![Alt Text](https://github.com/jlduim/jlduim/blob/main/GIF%20de%20apresenta%C3%A7%C3%A3o.gif)
+
+- 🔭 I’m currently working on **Undergraduate Research**.
+- 🌱 I’m currently learning **Mathematical Modeling, Computacional Mathematics, Statistics, Data Science and Artificial Intelligence**.
+- 👯 I’m looking to collaborate on college subjects as a **teaching assistant**.
+- 🏆 I've got **45 Scientific Olympiads Awards in Mathematics, Physics, Chemistry, Biology, Portuguese, Geography, Earth Sciences, Astronomy and Robotics**.
+- 💬 Ask me about **Mathematics, Science and Technology**.
+- 📫 How to reach me: **jlduim@gmail.com**.
+- 📄 Know more about me on [https://linktr.ee/jlduim](https://linktr.ee/jlduim).
+- ⚡ Fun fact: **I love meeting new people and sharing experiences with them. I also love learning about other cultures and languages**.
 
 <!--
 **GeGoooood/GeGoooood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
